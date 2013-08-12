@@ -1,23 +1,24 @@
 {
-  "name": "d3.chart.template",
+  "name": "d3.chart.layout",
   
-  "description": "A template for creating d3.chart based charts",
+  "description": "A layout chart that enables to well structured your chart building by defining zones and providing options.",
 
   "version": "0.0.1",
   
-  "author": "Your Name",
+  "author": "First-developer",
   
   "license": "MIT Expat",
   
   "repository": {
     "type": "git",
-    "url": "git://github.com/yourOrgOrName/d3.chart.chart.git"
+    "url": "git://github.com/first-developer/d3.chart.layout.git"
   },
   
   "keywords": [
     "d3.js",
     "visualization",
-    "svg"
+    "svg",
+    "layout"
   ],
 
   "d3.chart": {
